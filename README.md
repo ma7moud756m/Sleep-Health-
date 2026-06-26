@@ -42,7 +42,7 @@ Provides a high-level summary of the dataset including KPIs and participant dist
 * Occupation Distribution
 * Gender Distribution
 
-![Overview](dashboard/page1.png)
+![Overview](dashboard/page-1.png)
 
 ---
 
@@ -56,7 +56,7 @@ Analyzes the relationship between sleep duration and lifestyle factors.
 * Stress Level by Sleep Category
 * Sleep Disorder by Activity Level
 
-![Sleep Analysis](dashboard/page2.png)
+![Sleep Analysis](dashboard/page-2.png)
 
 ---
 
@@ -70,7 +70,7 @@ Explores cardiovascular and lifestyle metrics.
 * Daily Steps vs Sleep Duration
 * Interactive Health Summary Table
 
-![Health](dashboard/page3.png)
+![Health](dashboard/page-3.png)
 
 ---
 
